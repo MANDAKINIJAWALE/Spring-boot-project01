@@ -1,0 +1,4 @@
+Class Main
+{
+  int a=5;
+}
