@@ -1,0 +1,4 @@
+Class Main
+{
+  String a="ab";
+}
