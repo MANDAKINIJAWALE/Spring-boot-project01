@@ -1,4 +1,9 @@
+
 Class Main
 {
   String a="ab";
+
+
+
+  int a=5;
 }
